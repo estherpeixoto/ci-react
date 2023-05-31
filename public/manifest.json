@@ -1,0 +1,21 @@
+{
+  "resources/react.svg": {
+    "file": "build/react.35ef61ed.svg",
+    "src": "resources/react.svg"
+  },
+  "resources/main.jsx": {
+    "file": "build/main.7ca42f7c.js",
+    "src": "resources/main.jsx",
+    "isEntry": true,
+    "css": [
+      "build/main.ecfbdf05.css"
+    ],
+    "assets": [
+      "build/react.35ef61ed.svg"
+    ]
+  },
+  "resources/main.css": {
+    "file": "build/main.ecfbdf05.css",
+    "src": "resources/main.css"
+  }
+}
